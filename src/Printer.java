@@ -1,4 +1,4 @@
 
 public interface Printer {
-	public void printer(String document);
+	public void print(String document);
 }
